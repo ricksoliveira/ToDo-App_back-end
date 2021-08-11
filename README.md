@@ -19,13 +19,13 @@ To Do app is a simple Task List to keep our lives more organized. 😉
 
 ## How to install
 
-To install this project all you have to do is to clone this repository with the command:
-
+> To install this project all you have to do is to clone this repository with the command:
+> 
 > ```
 > 	git clone https://github.com/ricksoliveira/ToDo-App_back-end.git
 > ```
-
-Or you can just download it as a `ZIP` file and open as a project  within your IDE.
+> 
+> Or you can just download it as a `ZIP` file and open as a project  within your IDE.
 
 <br/>
 
